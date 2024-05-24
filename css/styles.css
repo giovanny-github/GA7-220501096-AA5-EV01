@@ -60,6 +60,7 @@ h2 {
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
+    margin:5px;
 }
 
 .button:hover {

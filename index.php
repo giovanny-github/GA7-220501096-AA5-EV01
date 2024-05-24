@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Bienvenido a My Web Service</h1>
-    <p>Por favor, elige una opción:</p>
+    <p>Por favor, selecciona una opción:</p>
     <div class="buttons">
         <a href="register.php" class="button">Registro</a>
         <a href="login.php" class="button">Inicio de Sesión</a>
